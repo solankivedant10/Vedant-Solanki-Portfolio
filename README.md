@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vedant Solanki
-https://fancy-sunburst-98470d.netlify.app/
+https://vedants.netlify.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedant-solanki-842519249/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:vedants1084@gmail.com)
 
