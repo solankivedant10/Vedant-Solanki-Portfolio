@@ -11,7 +11,7 @@ export default function Projects() {
             <h3 className="text-xl font-semibold">CAMPUS PLACEMENT WEBAPP</h3>
             <div className="flex gap-2">
               <a 
-                href="https://storied-selkie-7acae3.netlify.app/"
+                href="https://elevateplacements.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1 text-blue-600 hover:text-blue-800"
